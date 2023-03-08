@@ -1,0 +1,59 @@
+.txt {
+    text-align: center;
+    text-decoration:darkcyan;
+    color: chartreuse;
+}
+
+body {
+    background-color: blue;
+}
+
+#sec {
+    width: 20%;
+    border:darkblue;
+    border-radius: 4.5px;
+    background-color: aquamarine;
+    height: 325px;
+    float: left;
+    padding: 8px;
+    
+
+}
+
+.place {
+    width: 100%;
+    padding: 4px;
+    border: 2px;
+    border-radius: 5px;
+    border-color: blue;
+    background-color: chartreuse;
+    height: 30px;
+}
+
+
+
+.pl {
+    width: 15%;
+    height: 30px;
+    background-color: chartreuse;
+    border-radius: 5px;
+    float: right;
+    text-align: center;
+    
+}
+
+#pics{
+    float: left;
+    padding: 8px;
+    width:600px;
+    padding: 0 20px;
+    height: 700px;
+}
+.i{
+    width :"100px" ;height:"50px";
+    float:left;
+}
+#section {
+    width: 1200px;
+    height:300px;
+}   

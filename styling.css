@@ -1,0 +1,83 @@
+body {
+    height: 100vh;
+    width: 100vh;
+    background-image:linear-gradient(to right top, rgb(15, 11, 250), rgb(64, 154, 238), rgb(2, 255, 255), #b4f3de)
+}
+h1,h3 {
+    color: blue;
+}
+.img {
+    position: absolute;
+    left: 50%;
+    transform:translate(-50%);
+}
+
+#football {
+    background-color: rgb(81, 255, 0);
+    border-radius: 20px;
+    width:300px;
+}
+.contents {
+    color: forestgreen;
+
+}
+
+#para {
+    color: rgb(43, 219, 20);
+    border: rgb(15, 11, 250);border-width: 3px;
+}
+
+#back {
+    visibility: collapse;
+}
+
+#back_to_home {
+    border: blue;
+    border-radius:10px;
+    background-color: chartreuse;
+    text-decoration-color: blue;
+}
+#tohome {
+    border: blue;
+    border-radius:10px;
+    background-color: chartreuse;
+    text-decoration-color: blue;
+    float: right;
+}
+div {
+    border-color: black;
+    float: right;
+}
+.dandt {
+    float: left;
+}
+
+#date {
+    border-radius: 5px;
+    border-color: blue;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: aqua;
+}
+
+#knowmore {
+    border-style: dotted;
+    color: lawngreen;
+    border: rgb(0, 0, 0);
+    border-radius: 5px;
+}
+
+footer {
+    border: rgb(54, 66, 238);
+    border-radius: 5px;
+    border-style: dashed;
+    width: 40%;
+}
+
+#travelling{
+    background-color: rgb(81, 255, 0);
+    border-radius: 20px;
+    width:300px;
+}
+
+
